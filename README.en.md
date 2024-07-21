@@ -1,6 +1,6 @@
 ## Hi.
 
-[![한국어](https://img.shields.io/badge/-한국어-yellowgreen)](README.md)
+[![한국어](https://img.shields.io/badge/-한국어-skyblue)](README.md)
 
 Here is some brief information about me. However, these are just a small part of who I am:
 
