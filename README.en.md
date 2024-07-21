@@ -1,6 +1,6 @@
 ## Hi.
 
-[![Korean](https://img.shields.io/badge/-Korean-blue)](README.ko.md)
+[![Korean](https://img.shields.io/badge/-Korean-blue)](README.md)
 
 Here is some brief information about me. However, these are just a small part of who I am:
 
