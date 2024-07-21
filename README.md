@@ -1,6 +1,6 @@
 ## 반갑습니다.
 
-[![English](https://img.shields.io/badge/-English-blue)](README.en.md)
+[![English](https://img.shields.io/badge/-English-lightpink)](README.en.md)
 
 다음은 저에 대한 소개입니다. 그렇지만 이것들은 저의 아주 일부분에 불과한 정보입니다.
 
