@@ -14,8 +14,8 @@ Here is some brief information about me. However, these are just a small part of
 
 ### Awards
 
-- [Excellence Award] 2023 Undergraduate/Junior Paper Contest, Korea Information Science Society
-- [Excellence Award] 2022 University Capstone Design Contest, Korea Broadcasting and Media Engineering Society
+- [Excellence Award] 2023 Undergraduate/Junior Paper Contest, Korea Information Science Society (KISS)
+- [Excellence Award] 2022 University Capstone Design Contest, The Korean Institute of Broadcast and Media Engineers (KIBME)
 
 ### Papers
 
