@@ -7,10 +7,11 @@ Here is some brief information about me. However, these are just a small part of
 - 🎓 Bachelor’s Degree in Computer Science & Engineering, Sogang University
 - 🚀 Kakao tech Bootcamp 1st, Full-Stack Course (In Progress)
 
-- 📱 Experience in Developing Native Android Apps
-- 🖼️ Experience in Developing and Applying an Image Classification Model using YOLOv5
+- 📱 Android Native App Development: Experience in data processing and integrating open-source libraries.
+- 🖼️ Image Classification with YOLOv5: Developed and deployed image classification models using YOLOv5, including AI training, data pipeline development, and model deployment.
+- 🎮 Desktop Game Development with Unity: Collaboratively worked on game logic development and took charge of map art creation.
 - 🌱 Currently studying React and frontend stack
-- 📚 Enjoys reading books on technology and various genres
+- 📚 Enjoys reading books on technology and various fields
 
 ### Awards
 
@@ -26,7 +27,7 @@ Here is some brief information about me. However, these are just a small part of
 ### 📫 Contact
 
 - [Email] extinctmule@gmail.com
-- [Personal Blog] https://blog.naver.com/lotofme
+- [__*Personal*__ Blog] https://blog.naver.com/lotofme
 
 ### 🛠️ Tech Stack:
 
@@ -35,4 +36,7 @@ Here is some brief information about me. However, these are just a small part of
 - HTML, CSS
 - C/C++
 - Java
+
+- Android Studio
+- Unity
 - Git & GitHub
