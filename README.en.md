@@ -1,4 +1,4 @@
-## Hi.
+## Hi. I'm `Sumin`.
 
 [![한국어](https://img.shields.io/badge/-한국어-skyblue)](README.md)
 
