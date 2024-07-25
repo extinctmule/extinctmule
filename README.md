@@ -1,4 +1,4 @@
-## 반갑습니다.
+## 반갑습니다. 저는 `임수민`이라고 합니다.
 
 [![English](https://img.shields.io/badge/-English-lightpink)](README.en.md)
 
