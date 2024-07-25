@@ -26,7 +26,7 @@
 ### 📫 연락처
 
 - [이메일] extinctmule@gmail.com
-- [<u>개인</u> 블로그] https://blog.naver.com/lotofme
+- [`개인` 블로그] https://blog.naver.com/lotofme
 
 ### 🛠️ 기술 스택:
 
