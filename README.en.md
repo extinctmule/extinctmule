@@ -31,11 +31,12 @@ Here is some brief information about me. However, these are just a small part of
 
 ### 🛠️ Tech Stack:
 
+- C++
 - Python
 - Javascript
 - HTML, CSS
-- C/C++
 - Java
+- C#
 
 - Android Studio
 - Unity
