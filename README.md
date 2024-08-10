@@ -30,11 +30,12 @@
 
 ### 🛠️ 기술 스택:
 
+- C++
 - Python
 - Javascript
 - HTML, CSS
-- C/C++
 - Java
+- C#
 
 - Android Studio
 - Unity
