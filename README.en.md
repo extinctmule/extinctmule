@@ -27,7 +27,7 @@ Here is some brief information about me. However, these are just a small part of
 ### 📫 Contact
 
 - [Email] extinctmule@gmail.com
-- [__*Personal*__ Blog] https://blog.naver.com/lotofme
+- [__`Personal`__ Blog] https://blog.naver.com/lotofme
 
 ### 🛠️ Tech Stack:
 
