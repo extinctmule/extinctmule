@@ -1,9 +1,10 @@
-## Hi. I'm `Sumin`.
+## Hi!
 
 [![한국어](https://img.shields.io/badge/-한국어-skyblue)](README.md)
 
-- 🎓 Bachelor’s Degree in Computer Science & Engineering, Sogang University
+
 - 🚀 Kakao tech Bootcamp 1st, Full-Stack Course (In Progress)
+- 🎓 Bachelor’s Degree in Computer Science & Engineering, Sogang University
 - 📈 AI Stock Auto-Trading Web Platform Development (Authentication Management, Data Handling via API Integration, Web Page Design, and Front-End Development)
 - 📱 Android Native App Development: Experience in data processing and integrating open-source libraries.
 - 🖼️ Image Classification with YOLOv5: Developed and deployed image classification models using YOLOv5, including AI training, data pipeline development, and model deployment.
@@ -29,13 +30,13 @@
 
 ### 🛠️ Tech Stack:
 
-- C++
-- Python
 - Javascript
 - HTML, CSS
+- C++
+- Python
 - Java
 - C#
 
+- React
 - Android Studio
 - Unity
-- Git & GitHub
