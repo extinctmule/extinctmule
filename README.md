@@ -1,9 +1,10 @@
-## 반갑습니다. 저는 `임수민`이라고 합니다.
+## 안녕하세요.
 
 [![English](https://img.shields.io/badge/-English-lightpink)](README.en.md)
 
-- 🎓 서강대학교 컴퓨터공학과 학사 (졸업)
+
 - 🚀 카카오테크 부트캠프 1기, 풀스택 과정 (진행중)
+- 🎓 서강대학교 컴퓨터공학과 학사 (졸업)
 - 📈 AI 주식 자동거래 웹 플랫폼 개발 (인증 관리, API연결 통한 데이터 처리, 웹페이지 설계 및 프론트엔드 개발) 
 - 📱 안드로이드 네이티브 앱 개발 경험 (데이터 가공 및 오픈소스 적용)
 - 🖼️ 이미지 분류 모델 개발 및 적용 경험 (YOLOv5를 이용한 AI학습 및 데이터 파이프라인 개발, 모델 배포)
@@ -29,13 +30,13 @@
 
 ### 🛠️ 기술 스택:
 
-- C++
-- Python
 - Javascript
 - HTML, CSS
+- C++
+- Python
 - Java
 - C#
 
+- React
 - Android Studio
 - Unity
-- Git & GitHub
