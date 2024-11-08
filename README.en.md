@@ -5,7 +5,7 @@
 
 - 🚀 Kakao tech Bootcamp 1st, Full-Stack Course (In Progress)
 - 🎓 Bachelor’s Degree in Computer Science & Engineering, Sogang University
-- 📈 AI Stock Auto-Trading Web Platform Development (Authentication Management, Data Handling via API Integration, Web Page Design, and Front-End Development)
+- 📈 AI Stock Auto-Trading Web Platform Development (Authentication Management, Web Page Design, and Front-End Development)
 - 📱 Android Native App Development: Experience in data processing and integrating open-source libraries.
 - 🖼️ Image Classification with YOLOv5: Developed and deployed image classification models using YOLOv5, including AI training, data pipeline development, and model deployment.
 - 🎮 Desktop Game Development with Unity: Collaboratively worked on game logic development and took charge of map art creation.
