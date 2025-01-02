@@ -31,7 +31,7 @@
 
 ### 🛠️ Tech Stack:
 
-- Javascript
+- Javascript/Typescript
 - HTML, CSS
 - C++
 - Python
