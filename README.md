@@ -30,7 +30,8 @@
 
 ### 🛠️ 기술 스택:
 
-- Javascript/Typescript
+- JavaScript
+- TypeScript
 - HTML, CSS
 - C++
 - Python
