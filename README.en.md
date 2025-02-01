@@ -11,7 +11,7 @@
 - [Image Classification with YOLOv5](https://github.com/Nail-Auto-Tagging/color_yolo) (Develope and deploy image classification models using YOLOv5, including AI training, data pipeline development)
 - [Desktop Game Development with Unity](https://github.com/2023GameStudio-allagro/al-lag-ro) (Collaboratively worked on game logic development and took charge of map art creation)
 
-### 🛠️ 기술 스택
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,7 +38,7 @@
 - CNN-based Nail Art Color Automatic Classifier, The Korean Institute of Broadcast and Media Engineers (KIBME), 2022 (Co-author)
 - Performance Comparison of Deep Learning Models for Nail Art Style Classification, Korea Information Science Society (KISS), 2022 (Co-author)
 
-### 📫 Contact
+### Contact
 
 - [Email] extinctmule@gmail.com
 
