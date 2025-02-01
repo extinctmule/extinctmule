@@ -11,7 +11,7 @@
 - [이미지 분류 모델 개발 및 적용](https://github.com/Nail-Auto-Tagging/color_yolo) (YOLOv5를 이용한 AI학습 및 데이터 파이프라인 개발, 모델 배포)
 - [Unity 데스크톱 게임 개발](https://github.com/2023GameStudio-allagro/al-lag-ro) (개발(공동), 맵 아트(전담))
 
-### 🛠️ 기술 스택:
+### 🛠️ 기술 스택
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
